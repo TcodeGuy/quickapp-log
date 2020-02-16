@@ -3,7 +3,9 @@
 
 ## 开始
 安装 NodeJS
+
 官网下载安装
+
 安装 toolkit
 
 ```npm install -g hap-toolkit```
